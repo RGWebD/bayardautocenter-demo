@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 460"><defs>
+<linearGradient id="rime" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F6F7F9"/><stop offset=".32" stop-color="#A4A9B0"/><stop offset=".52" stop-color="#E6E9EC"/><stop offset=".78" stop-color="#6C7179"/><stop offset="1" stop-color="#BEC2C8"/></linearGradient>
+<linearGradient id="fle" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#40454D"/><stop offset="1" stop-color="#23272C"/></linearGradient>
+<linearGradient id="fre" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1A1C20"/><stop offset="1" stop-color="#0A0B0D"/></linearGradient>
+<linearGradient id="cwe" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset=".6" stop-color="#F1F2F4"/><stop offset="1" stop-color="#D3D7DC"/></linearGradient>
+<linearGradient id="cre" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FF2A32"/><stop offset=".55" stop-color="#E3121B"/><stop offset="1" stop-color="#A80C12"/></linearGradient>
+<linearGradient id="gle" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".14"/><stop offset=".42" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="hle" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".9"/><stop offset=".5" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<radialGradient id="she" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#000" stop-opacity=".55"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+<clipPath id="Le"><rect width="200" height="460"/></clipPath>
+<clipPath id="Re"><rect x="200" width="200" height="460"/></clipPath>
+<clipPath id="Se"><path d="M200 36 L346 66 L346 214 C346 314 282 378 200 420 C118 378 54 314 54 214 L54 66 Z"/></clipPath>
+</defs>
+<path d="M200 16 L364 50 L364 214 C364 326 292 398 200 444 C108 398 36 326 36 214 L36 50 Z" fill="url(#rime)"/>
+<path d="M200 16 L364 50 L364 214 C364 326 292 398 200 444 C108 398 36 326 36 214 L36 50 Z" fill="none" stroke="#000" stroke-opacity=".35" stroke-width="2"/>
+<path d="M200 36 L346 66 L346 214 C346 314 282 378 200 420 C118 378 54 314 54 214 L54 66 Z" fill="none" stroke="#050607" stroke-width="7" stroke-linejoin="round"/>
+<g clip-path="url(#Se)"><rect width="200" height="460" fill="url(#fle)"/><rect x="200" width="200" height="460" fill="url(#fre)"/>
+<ellipse cx="200" cy="350" rx="150" ry="16" fill="url(#she)"/>
+<path d="M199.4 0 H200.6 V460 H199.4Z" fill="#fff" opacity=".10"/></g>
+<path d="M151.24 136.66 L136.4 139.84 L110.96 198.14 L98.24 194.96 L87.64 191.78 L81.28 197.08 L83.4 206.62 L100.36 212.98 L83.4 225.7 L77.04 240.54 L77.04 287.18 L83.4 297.78 L85.52 325.34 L123.68 325.34 L126.86 306.26 L157.6 306.26 L242.4 306.26 L273.14 306.26 L276.32 325.34 L314.48 325.34 L316.6 297.78 L322.96 287.18 L322.96 240.54 L316.6 225.7 L299.64 212.98 L316.6 206.62 L318.72 197.08 L312.36 191.78 L301.76 194.96 L289.04 198.14 L263.6 139.84 L248.76 136.66 Z M157.6 151.5 L144.88 153.62 L125.8 196.02 L157.6 199.2 L242.4 199.2 L274.2 196.02 L255.12 153.62 L242.4 151.5 Z M89.76 238.42 L163.96 251.14 L158.66 262.8 L96.12 257.5 Z M310.24 238.42 L236.04 251.14 L241.34 262.8 L303.88 257.5 Z M170.32 255.38 L229.68 255.38 L240.28 270.22 L225.44 291.42 L174.56 291.42 L159.72 270.22 Z M91.88 272.34 L138.52 280.82 L134.28 291.42 L96.12 289.3 Z M308.12 272.34 L261.48 280.82 L265.72 291.42 L303.88 289.3 Z" fill="url(#cwe)" fill-rule="evenodd" clip-path="url(#Le)"/>
+<path d="M151.24 136.66 L136.4 139.84 L110.96 198.14 L98.24 194.96 L87.64 191.78 L81.28 197.08 L83.4 206.62 L100.36 212.98 L83.4 225.7 L77.04 240.54 L77.04 287.18 L83.4 297.78 L85.52 325.34 L123.68 325.34 L126.86 306.26 L157.6 306.26 L242.4 306.26 L273.14 306.26 L276.32 325.34 L314.48 325.34 L316.6 297.78 L322.96 287.18 L322.96 240.54 L316.6 225.7 L299.64 212.98 L316.6 206.62 L318.72 197.08 L312.36 191.78 L301.76 194.96 L289.04 198.14 L263.6 139.84 L248.76 136.66 Z M157.6 151.5 L144.88 153.62 L125.8 196.02 L157.6 199.2 L242.4 199.2 L274.2 196.02 L255.12 153.62 L242.4 151.5 Z M89.76 238.42 L163.96 251.14 L158.66 262.8 L96.12 257.5 Z M310.24 238.42 L236.04 251.14 L241.34 262.8 L303.88 257.5 Z M170.32 255.38 L229.68 255.38 L240.28 270.22 L225.44 291.42 L174.56 291.42 L159.72 270.22 Z M91.88 272.34 L138.52 280.82 L134.28 291.42 L96.12 289.3 Z M308.12 272.34 L261.48 280.82 L265.72 291.42 L303.88 289.3 Z" fill="url(#cre)" fill-rule="evenodd" clip-path="url(#Re)"/>
+<path d="M200 36 L346 66 L346 214 C346 314 282 378 200 420 C118 378 54 314 54 214 L54 66 Z" fill="url(#gle)"/>
+<path d="M200 22 L360 55 L360 120 M200 22 L40 55 L40 120" fill="none" stroke="url(#hle)" stroke-width="2.2" stroke-linejoin="round" opacity=".8"/></svg>

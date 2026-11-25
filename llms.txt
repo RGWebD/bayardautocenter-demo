@@ -1,0 +1,21 @@
+# Bayard Auto Center
+
+> Auto repair shop at 12569 Philips Hwy, Jacksonville, FL 32256 (Bayard area, Southside Jacksonville). Phone (904) 400-4100. Open Monday–Friday 8 AM–6 PM; closed Saturday and Sunday. Rated 4.7 stars from 325 Google reviews.
+
+## Key facts
+- Category: Auto repair shop
+- Services: computer diagnostic scan; engine & transmission; heating & cooling (A/C); electrical & electronic; alignment; brakes; tires; inspections; oil change
+- Appointments: required; book online at https://myshopmanager.com/request_appointment?v=JTdCNWI5NWQzNDUtOTJkYi00N2NmLWIzNWMtZWI4MTdhODI2OWJkJTdE
+- Payments: credit cards, debit cards, NFC mobile payments
+- Financing: Snap Finance (https://apply.snapfinance.com/snap-loan/landing); approval and terms set by Snap Finance
+- Accessibility: wheelchair-accessible entrance, parking lot and restroom
+- Facebook: https://www.facebook.com/profile.php?id=100057353174341
+- Google Maps: https://maps.google.com/?cid=5491802092088924756
+
+## Pages
+- [Home](https://rgwebd.github.io/bayardautocenter-demo/): overview, services, why customers choose the shop, reviews
+- [Services](https://rgwebd.github.io/bayardautocenter-demo/services.html): each of the nine services in detail and how a repair works
+- [About the shop](https://rgwebd.github.io/bayardautocenter-demo/about.html): photos, amenities and payment options
+- [Reviews](https://rgwebd.github.io/bayardautocenter-demo/reviews.html): 4.7★ rating, review topics and 5-star reviews quoted verbatim from Google
+- [Financing](https://rgwebd.github.io/bayardautocenter-demo/financing.html): Snap Finance
+- [Contact](https://rgwebd.github.io/bayardautocenter-demo/contact.html): map, hours, phone, booking and FAQ
