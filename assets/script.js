@@ -44,7 +44,7 @@ if(wi&&!RM)addEventListener('scroll',()=>{const r=wi.parentElement.getBoundingCl
 
 /* counters + gauges */
 function runCount(el){const end=+el.dataset.count,dec=+(el.dataset.dec||0),out=$('b',el)||el;const g=el.closest('.gauge');const arc=g&&$('.val',g);
- if(arc){const L=+arc.dataset.len,f=+arc.dataset.frac;arc.style.strokeDashoffset=L*(1-f)}
+ if(arc){const L=+arc.dataset.len,f=+arc.dataset.frac;arc.style.strokeDashoffset=L*(1-f);const n=$('.ndl',g);if(n)n.style.transform=`rotate(${n.dataset.deg}deg)`}
  if(RM){out.textContent=end.toFixed(dec);return}
  const t0=performance.now(),D=1800;(function f(t){const k=Math.min(1,(t-t0)/D),e=1-Math.pow(1-k,4);out.textContent=(end*e).toFixed(dec);if(k<1)requestAnimationFrame(f);else out.textContent=end.toFixed(dec)})(t0)}
 const cio=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){runCount(e.target);cio.unobserve(e.target)}}),{threshold:.4});
